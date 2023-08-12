@@ -17,4 +17,13 @@ def smallest_prime_factor(n):
         k = k + 1
     return  k
 
-prime_factors(8)
+
+
+def cake():
+    print('beets')
+    def pie():
+        print('sweets')
+        return 'cake'
+    return pie
+chocolate = cake()
+
